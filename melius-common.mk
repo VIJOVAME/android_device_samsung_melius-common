@@ -98,13 +98,6 @@ PRODUCT_PACKAGES += \
     gps.conf \
     sap.conf
 
-# FM radio
-PRODUCT_PACKAGES += \
-    qcom.fmradio \
-    libqcomfm_jni \
-    FM2 \
-    FMRecord
-
 # OmniTorch
 PRODUCT_PACKAGES += OmniTorch
 
